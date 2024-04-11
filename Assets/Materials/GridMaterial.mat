@@ -58,6 +58,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _AAThreshold: 0.001
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     - _BumpScale: 1
@@ -77,6 +78,7 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
+    - _test: 0.02646065
     m_Colors:
     - _BackgroundColor: {r: 0.2, g: 0.09803922, b: 0.19215687, a: 1}
     - _CellSize: {r: 1, g: 1, b: 0, a: 0}
